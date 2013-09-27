@@ -1,0 +1,14 @@
+{
+    "name": "textDiff",
+    "version": "1.0",
+    "desc": "文本diff工具",
+    "cover": "",
+    "tag":"文本diff",
+    "author": {
+        "name": "moxiao",
+        "email": "moxiao.hd@alibaba-inc.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
